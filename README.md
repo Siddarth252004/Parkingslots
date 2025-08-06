@@ -59,8 +59,3 @@ This project is a web application that allows users to book vehicle parking spot
 2. View your upcoming bookings.
 3. Click on a booking to edit or cancel it.
 
-## Contact
-Created by:
-- Shreyas DK - shreyasdk.is22@bmsce.ac.in
-- Somanath Mikali - somanath.is22@bmsce.ac.in
-- Vishesh P Gowda - vishesh.is22@bmsce.ac.in
